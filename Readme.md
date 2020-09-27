@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Одинцов Дмитрий](https://up.htmlacademy.ru/javascript/21/user/288821).
-* Наставник: `Захар Овчаров`.
+* Наставник: `Захар Овчаров`(https://htmlacademy.ru/profile/id906939).
 
 ---
 
